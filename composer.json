@@ -1,0 +1,21 @@
+{
+    "name": "dtmind/dtparser",
+    "type": "library",
+    "description": "get and parse file",
+    "keywords": ["ftp","download","unzip"],
+    "homepage": "http://www.dtmind.com/dtparser/",    
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DTMind",
+            "email": "develop@dtmind.com"
+        },
+        {
+            "name": "Stefano",
+            "email": "stefano@oggioni.net"
+        }        
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
